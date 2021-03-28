@@ -2,7 +2,7 @@
 
 A Web App to perform sentiment analysis on tweets. 
 
-App is deployed in Heroku, click the link to access it : [Open in Heroku](https://sentiment-analysis-tweet--app.herokuapp.com/
+App is deployed in Heroku, click the link to access it : [Open in Heroku](https://sentiment-analysis-tweet--app.herokuapp.com/) 
 
 ## Summary
 
